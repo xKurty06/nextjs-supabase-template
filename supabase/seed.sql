@@ -1,0 +1,1 @@
+-- Add optional seed data here when your database schema is ready.
